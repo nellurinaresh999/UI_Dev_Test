@@ -9,7 +9,7 @@ This repository is read only so to push your changes you'll need to fork it. Aft
 * Try to have a least one commit per task so that we can see the work progress
 * Use descriptive commit comments
 * It's up to you whether you want to push regularly or once you are finished with all of your commits
-* Usage of any third party plugins are not allowed, Use HTML, CSS, Javascript and JQuery only.
+* Usage of any third party plugins are not allowed, Use HTML, CSS, Javascript only.
 * Things to consider: performance, efficient use of space, usability, cross-browser, responsiveness.
 
 ## Tasks
@@ -31,7 +31,7 @@ This repository is read only so to push your changes you'll need to fork it. Aft
   - password: must be at least 8 long and contain at least 1 special character
 * Display error messages for each invalid field
 * All fileds are required and needs to be valid before form can be submitted
-* Use only vanilla JS for this tasks (do not use plugins or HTML5 API)
+* Use Jquery for this task if needed.
 * **Optional task:** add unit tests
 
 ## Finished
