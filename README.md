@@ -9,7 +9,7 @@ This repository is read only so to push your changes you'll need to fork it. Aft
 * Try to have a least one commit per task so that we can see the work progress
 * Use descriptive commit comments
 * It's up to you whether you want to push regularly or once you are finished with all of your commits
-* You are free to add whatever frameworks or libraries you like, but be prepared to justify your use of them.
+* Usage of any third party plugins are not allowed, Use HTML, CSS, Javascript and JQuery only.
 * Things to consider: performance, efficient use of space, usability, cross-browser, responsiveness.
 
 ## Tasks
