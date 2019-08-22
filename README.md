@@ -15,7 +15,7 @@ This repository is read only so to push your changes you'll need to fork it. Aft
 ## Tasks
 ### 1. Create image panning and zooming
 * Use `app/index.html` file
-* Create a responsive image grid ( Refer mockups for different devices in app/desktop-mockup.png, app/tablet-mockup.png, app/mobile-mockup.png)
+* Create a responsive image grid ( Refer mockups for different devices in `app/desktop-mockup.png`, `app/tablet-mockup.png`, `app/mobile-mockup.png`)
 * Add two buttons "Zoom in" and "Zoom out" and zoom respective image in and out corresponding to the buttons.
 * Allow panning of image i.e. Drag the image to specific view
 * Add comments on what other improvements would you add to this page
