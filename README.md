@@ -4,12 +4,12 @@ This is a demo project to gauge a candidate's HTML, CSS and JS knowledge.
 ## Fork the repository
 This repository is read only so to push your changes you'll need to fork it. After completeing all the tasks push code to your own repo and let us know.
 
-## Tips
+## Things to Remember
 
 * Try to have a least one commit per task so that we can see the work progress
 * Use descriptive commit comments
 * It's up to you whether you want to push regularly or once you are finished with all of your commits
-* Usage of any third party plugins are not allowed, Use HTML, CSS, Javascript only.
+* Usage of any third party plugins like `bootstrap`, `jQuery` are not allowed, Use **HTML**, **CSS**, **Javascript** only.
 * Things to consider: performance, efficient use of space, usability, cross-browser, responsiveness.
 
 ## Tasks
